@@ -1,10 +1,10 @@
-#Adapt
+# Adapt
 
 A game I made for my A2 coursework back in 2013/2014.
 
 Written in an ancient language called DarkBasic.
 
-##How to run
+## How to run
 
 Please don't.
 
