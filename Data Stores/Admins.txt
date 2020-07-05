@@ -1,0 +1,15 @@
+A001
+Admin1
+adaptpassword
+A002
+AdminGfL
+gflpassword
+A003
+OwenAdmin
+owenpassword
+A004
+2Admin
+2password2
+A005
+AdminX
+secretpassword
